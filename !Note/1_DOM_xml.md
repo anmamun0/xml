@@ -1,16 +1,13 @@
+##   XML DOM Methods and Properties Summary
 
-Key DOM Methods and Properties (JavaScript Example):
-
-## 🔹 6️⃣ XML DOM Methods Summary
-
-### Properties Description
+#### Properties Description
 - `documentElement` : Gets the root element of the document.
 - `textContent`: Gets or sets the text content of a node and its descendants.
 - `childNodes`: Returns a collection of a node's children.
 - `firstChild`, `lastChild`, `nextSibling`, `previousSibling`: Used for navigating the tree.
 
 
-### Method	Description
+#### Method	Description
 - `getElementsByTagName(tagName)`	Get all elements by tag name.
 - `getAttribute(attributeName)`	Get an element’s attribute value.
 - `setAttribute(attributeName, value)`	Set an attribute value.
@@ -20,7 +17,7 @@ Key DOM Methods and Properties (JavaScript Example):
 - `replaceChild()` Replaces a child node.
 - `textContent`	Get or set text inside an element.
 
-
+<br><br>
 
 ## 🔹 1️⃣ XML DOM Tree Structure
 #### When an XML document is loaded into a browser, the DOM represents it as a tree of nodes.
